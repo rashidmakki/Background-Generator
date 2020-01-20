@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rashidmakki/Background-Generator/issues"
   },
-  "homepage": "https://github.com/rashidmakki/Background-Generator#readme"
+  "homepage": "https://github.com/rashidmakki/Background-Generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
